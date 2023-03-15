@@ -1,1 +1,1 @@
-# xkcd comics fetcher
+# xkcd comics
